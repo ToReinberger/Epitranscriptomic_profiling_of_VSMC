@@ -299,20 +299,19 @@ in the accompanying environment file.
 Python ≥ 3.10
 
 Main dependencies:
-> pandas
-> numpy
-> scipy
-> statsmodels
-> scikit-learn
-> matplotlib
-> seaborn
-> pybiomart
-> ViennaRNA
-> forgi
-> networkx
-> umap-learn
+* pandas
+* numpy
+* scipy
+* statsmodels
+* scikit-learn
+* matplotlib
+* seaborn
+* pybiomart
+* ViennaRNA
+* forgi
+* networkx
 
-~pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 ---
 
