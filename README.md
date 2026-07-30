@@ -263,9 +263,84 @@ Figure-specific analysis and plotting scripts
 
 ---
 
-Please cite "XYYZ" when using the scripts.
+## Input data
+
+The analyses use processed outputs from:
+
+- Illumina bulk RNA sequencing
+- Oxford Nanopore direct RNA sequencing
+- xPore differential-modification analysis
+- Nanocount and DESeq2
+- Poly(A)-tail estimation
+- Quantitative proteomics
+- Ensembl, HGNC and TargetScan reference resources
+
+Raw sequencing data are not included in this repository. Data availability
+and accession information are provided in the associated publication.
+
+Before running the scripts, update the input and output paths defined near the
+bottom of each script. The original analysis was performed using a
+project-specific directory structure.
+
+The scripts reproduce the processed data, statistical analyses and figure
+panels used in the publication. Some scripts contain parameters selected for
+the final manuscript analyses, including DMR thresholds, minimum coverage,
+adjusted-p-value cutoffs, Poly(A)-tail filtering criteria and RNA-folding
+window sizes.
+
+Results may differ slightly across package or reference-database versions.
+The original analysis used the Ensembl release and software versions specified
+in the accompanying environment file.
+
+---
+
+## Requirements
+
+Python ≥ 3.10
+
+Main dependencies:
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+pybiomart
+pyensembl
+biopython
+ViennaRNA
+forgi
+networkx
+seqfold
+adjustText
+umap-learn
+
+~pip install -r requirements.txt~
+
+---
+
+When using this code, please cite:
+
+Reinberger T, Ismail A, Falk T, et al. Epitranscriptomic profiling of VSMC
+phenotypes reveals uridine modifications linked to post-transcriptional
+regulation. [Journal, year, DOI].
 
 
+## License
 
+This repository is distributed under the [MIT/GPL-3.0] License.
+
+## Contact
+
+For questions concerning the analysis, please contact:
+
+Tobias Reinberger  
+Institute for Cardiogenetics, Universität zu Lübeck
+tobias.reinberger@uni-luebeck.de
+
+Inken Wohlers  
+Research Center Borstel  
+iwohlers@fz-borstel.de
 
 
