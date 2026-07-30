@@ -8,6 +8,7 @@ The study investigates epitranscriptomic changes associated with phenotypic tran
 
 This repository is intended to support transparency and reproducibility of the computational analyses performed in the study.
 
+---
 
 ## Analysis scripts
 
