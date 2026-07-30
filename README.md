@@ -317,7 +317,7 @@ Main dependencies:
 
 When using this code, please cite:
 
-Reinberger T, Ismail A, Falk T, et al. Epitranscriptomic profiling of VSMC
+Reinberger T et al. Epitranscriptomic profiling of VSMC
 phenotypes reveals uridine modifications linked to post-transcriptional
 regulation. [Journal, year, DOI].
 
