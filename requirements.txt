@@ -1,0 +1,40 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+joblib
+
+# Plotting and visualization
+matplotlib
+seaborn
+adjustText
+networkx
+Pillow
+
+# Dimensionality reduction
+umap-learn
+
+# Bioinformatics and annotation
+pybiomart
+
+pymed
+requests
+
+# RNA secondary-structure analysis
+ViennaRNA
+forgi
+seqfold
+
+# Excel input/output
+openpyxl
+
+# Local project modules used by some scripts are not installed from PyPI:
+# - enrichr_api.py
+# - strcture_alignment.py
+# - transcriptID2gene_names_biomart.py
+#
+# RNAfold and RNAplfold command-line tools are provided by ViennaRNA.
+# Depending on the operating system, they may also need to be installed
+# separately through Conda or the system package manager.
