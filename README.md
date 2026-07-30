@@ -331,7 +331,8 @@ This repository is distributed under the [MIT/GPL-3.0] License.
 For questions concerning the analysis, please contact:
 
 Tobias Reinberger  
-Institute for Cardiogenetics, Universität zu Lübeck
+Institute for Cardiogenetics, 
+Universität zu Lübeck 
 tobias.reinberger@uni-luebeck.de
 
 Inken Wohlers  
