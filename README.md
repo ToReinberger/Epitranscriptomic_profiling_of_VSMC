@@ -261,8 +261,9 @@ proc_0_3_map_genome_cdna2xpore.py
 Figure-specific analysis and plotting scripts
 ```
 
+---
 
-Please cite "XYYZ" if using the scripts
+Please cite "XYYZ" when using the scripts.
 
 
 
