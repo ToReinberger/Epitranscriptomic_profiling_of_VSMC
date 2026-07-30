@@ -1,4 +1,4 @@
-# Epitranscriptomic profiling of VSMC
+# Epitranscriptomic profiling of VSMC phenotypes
 
 ## Project overview
 
