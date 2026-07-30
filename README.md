@@ -299,24 +299,20 @@ in the accompanying environment file.
 Python ≥ 3.10
 
 Main dependencies:
-pandas
-numpy
-scipy
-statsmodels
-scikit-learn
-matplotlib
-seaborn
-pybiomart
-pyensembl
-biopython
-ViennaRNA
-forgi
-networkx
-seqfold
-adjustText
-umap-learn
+> pandas
+> numpy
+> scipy
+> statsmodels
+> scikit-learn
+> matplotlib
+> seaborn
+> pybiomart
+> ViennaRNA
+> forgi
+> networkx
+> umap-learn
 
-~pip install -r requirements.txt~
+~pip install -r requirements.txt
 
 ---
 
